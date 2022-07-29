@@ -1,0 +1,15 @@
+nav.navbar.navbar-expand-lg.fixed-top.bg-light {
+    background-color: skyblue !important;
+}
+
+/* img */
+img.img-fluid {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+div#navbarSupportedContent {
+    margin-left: 56%;
+}
